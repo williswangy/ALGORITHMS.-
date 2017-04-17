@@ -37,7 +37,7 @@ void encode(){
 }
 
 void outPut(){
-  //cout<< "HUFFMA3" << '\0';
+  
     
     unsigned int i;
     for(i = 0; i < 256; i++){
